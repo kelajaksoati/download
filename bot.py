@@ -1,0 +1,1 @@
+print('Instagramax MEGA running')

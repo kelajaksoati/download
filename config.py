@@ -1,0 +1,2 @@
+BOT_TOKEN='TOKEN'
+CHANNELS=['@kanal']
